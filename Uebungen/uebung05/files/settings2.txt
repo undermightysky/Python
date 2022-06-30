@@ -1,0 +1,7 @@
+language=English       
+size=       (700, 500)
+dpi = 96
+
+save_on_exit=True
+
+
