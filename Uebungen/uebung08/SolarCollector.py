@@ -5,7 +5,7 @@ Created on Wed Apr 27 17:28:05 2022
 
 @author: jerrysmacbookpro
 """
-
+# %%
 import numpy as np
 
 
